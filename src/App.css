@@ -1,10 +1,27 @@
 .App {
   text-align: center;
 }
-
+.student{
+  background-color: violet;
+  padding: auto;
+  border: 3px solid black;
+  margin: auto;
+  font-size: 30px;
+  width: 40%;
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.User{
+  
+  padding: auto;
+  border: 3px solid black;
+  margin: auto;
+  width: 50%;
+  font-size:30px ;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -12,6 +29,21 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+.modal{
+  background-color: azure;
+  padding: auto;
+  align-items: center;
+  border: 5px solid black;
+  margin:auto;
+  width:120%;
+  font-size:30px;
+  
+}
+
+
+
+
 
 .App-header {
   background-color: #282c34;

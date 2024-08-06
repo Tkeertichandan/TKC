@@ -1,0 +1,9 @@
+.TKC{
+    background-color: burlywood;
+    padding: auto;
+    margin: auto;
+    border: 3px solid black;
+    font-size: 30px;
+    text-align: center;
+    border-spacing: 20px; 
+}
