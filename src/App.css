@@ -10,6 +10,70 @@
   width: 40%;
   
 }
+.fb{
+  padding: auto;
+  background-color: whitesmoke;
+  text-decoration-color: brown;
+  border: 5px solid black;
+  margin: auto;
+  font-size: 40px;
+  
+  width:30%;
+  
+}
+
+.fm{
+  padding: auto;
+  background-color: whitesmoke;
+  flex: auto;
+  
+}
+
+
+.s1{
+  background-color: chocolate;
+  padding: auto;
+  margin: auto;
+  border:2px solid black;
+  font-size:20px;
+  width: 20%;
+}
+.s2{
+  background-color: yellow;
+  padding: auto;
+  margin: auto;
+  border:5px solid black;
+  font-size:20px;
+  width: 20%;
+
+}
+.s3{
+  background-color: gold;
+  padding: auto;
+  margin: auto;
+  border:5px solid black;
+  font-size:20px;
+  width: 20%;
+
+}
+.s4{
+  background-color: burlywood;
+  padding: auto;
+  margin: auto;
+  border:5px solid black;
+  font-size:20px;
+  width: 20%;
+}
+.s5{
+  background-color: royalblue;
+  padding: auto;
+  margin: auto;
+  border:5px solid black;
+  font-size:20px;
+  width: 20%;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

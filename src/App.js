@@ -7,8 +7,8 @@ import Courses from './components/Courses';
 import Component from './components/Component';
 import User from './components/User';
 import Assignment from './components/Assignment';
-
-
+import Stusents from './components/Students';
+import Feedbackform from './components/Feedbackform';
 
 import './App.css';
 
@@ -23,16 +23,9 @@ function App() {
       <Component/>
       <User/>
       <Assignment/>
-     
-      
-       
-   
-      
-  
-     
-      
-      
-
+      <Stusents/>
+      <Feedbackform/>
+    
     </div>
     
   );
