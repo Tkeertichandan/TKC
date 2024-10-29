@@ -1,0 +1,36 @@
+
+
+.fb {
+    margin: 20px auto;
+    width: 80%;
+    font-family: Arial, sans-serif;
+}
+
+.fb div {
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.fb table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.fb th {
+    padding: 15px;
+    text-align: left;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.fb th:nth-child(odd) {
+    background-color: #ffcc80;
+}
+
+.fb th:nth-child(even) {
+    background-color: #ffab40;
+}

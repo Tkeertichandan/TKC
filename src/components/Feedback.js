@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Feedback.css" ;
 
 const Feedback = ({data1}) => {
   

@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import Feedback from "./Feedback";
+import "./Feedbackform.css";
+
 const Feedbackform = () => {
     const [data,Setdata]=useState([])
   return (

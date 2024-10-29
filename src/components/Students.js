@@ -1,6 +1,6 @@
 import React from 'react'
 import Attendance from './Attendance';
-
+import "./Students.css";
 const Students = () => {
   return (
     <div class="s" >
